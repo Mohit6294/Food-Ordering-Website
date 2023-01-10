@@ -1,0 +1,32 @@
+{
+  "name": "food-ordering-website",
+  "version": "1.0.0",
+  "description": "This app is for ordering food online from 1000s of restaurent",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit6294/Meal-Monkey.git"
+  },
+  "author": "Mohit Bhadani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit6294/Meal-Monkey/issues"
+  },
+  "homepage": "https://github.com/Mohit6294/Meal-Monkey#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
